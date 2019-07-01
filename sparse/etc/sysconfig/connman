@@ -1,0 +1,2 @@
+SYSCONF_ARGS="--noplugin=jolla_rfkill"
+
