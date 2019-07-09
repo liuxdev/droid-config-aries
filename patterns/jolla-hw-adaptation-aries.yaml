@@ -6,6 +6,7 @@ Name: jolla-hw-adaptation-aries
 Requires:
 - droid-hal-aries
 - droid-hal-aries-img-boot
+- droid-hal-aries-kernel
 - droid-hal-aries-kernel-modules
 - droid-config-aries-sailfish
 - droid-config-aries-pulseaudio-settings

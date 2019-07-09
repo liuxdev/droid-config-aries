@@ -1,0 +1,8 @@
+CPUCHECK_STRING="QCT APQ8064 ARIES"
+
+PART_1="boot"
+
+PART_REAL_1="mmcblk0p18"
+
+PART_I="1"
+
