@@ -8,6 +8,7 @@ Requires:
 - droid-hal-aries-img-boot
 - droid-hal-aries-kernel
 - droid-hal-aries-kernel-modules
+- droid-hal-aries-detritus
 - droid-config-aries-sailfish
 - droid-config-aries-pulseaudio-settings
 - droid-config-aries-policy-settings
